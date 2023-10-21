@@ -3,7 +3,7 @@
 ## ディレクトリ構成
 
 ```
-project_directory/
+ProjectDirectory/
 │
 ├── Main.cpp
 ├── Common.hpp
