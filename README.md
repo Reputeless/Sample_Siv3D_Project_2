@@ -9,10 +9,17 @@ project_directory/
 ├── Common.hpp
 │
 ├── Title/
-│	├── Title.hpp
-│	└── Title.cpp
+│   ├── Title.hpp
+│   └── Title.cpp
 │
-└── Game/
-	├── Game.hpp
-	└── Game.cpp
+├── Game/
+│   ├── Game.hpp
+│   └── Game.cpp
+│
+└── App/
+    ├── asset/
+    │   ├── image1.png
+    │   └── image2.png
+    │
+    └── config.ini
 ```
